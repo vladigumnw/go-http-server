@@ -1,0 +1,12 @@
+server
+*.exe
+*.out
+*.log
+.DS_Store
+
+/bin
+/pkg
+/.idea
+.vscode
+
+*.tar
